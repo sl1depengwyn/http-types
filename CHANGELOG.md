@@ -9,6 +9,8 @@
   * `Http11`
   * `Http20`
   * `Http30`
+* Add pattern synonyms for `Status`
+  * all of format `StatusXXX`
 * Add more constant headers:
   * `hAcceptPatch`
   * `hAccessControlAllowCredentials`
