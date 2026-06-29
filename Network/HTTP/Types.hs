@@ -2,7 +2,6 @@ module Network.HTTP.Types (
     -- * Methods
 
     -- | __For more information__: "Network.HTTP.Types.Method"
-
     Method,
 
     -- ** Constants
@@ -25,7 +24,6 @@ module Network.HTTP.Types (
     -- * Versions
 
     -- | __For more information__: "Network.HTTP.Types.Version"
-
     HttpVersion (..),
     http09,
     http10,
@@ -36,7 +34,6 @@ module Network.HTTP.Types (
     -- * Status
 
     -- | __For more information__: "Network.HTTP.Types.Status"
-
     Status (..),
 
     -- ** Constants
@@ -155,7 +152,7 @@ module Network.HTTP.Types (
     RequestHeaders,
     ResponseHeaders,
 
-    -- ** Header constants
+    -- ** Constants
     hAccept,
     hAcceptCharset,
     hAcceptEncoding,
